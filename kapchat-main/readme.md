@@ -4,3 +4,6 @@ using css for styling
 
 ## Author
 Sahil Beniwal
+
+## License
+MIT License
